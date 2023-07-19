@@ -2,3 +2,5 @@ yellow
 red
 blue
 black
+green
+magenta
